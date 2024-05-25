@@ -3,13 +3,13 @@
 Artistry Haven is an online platform designed to display and manage art collections. It allows users to view and explore various artworks, providing a seamless experience with a user-friendly interface.
 
 # Features
-# Search Functionality: Allows users to search for specific artworks or artists.
-# Admin Panel: For managing artwork entries, including adding, updating, and deleting artworks.
-# User Authentication: Secure login system for admins to manage the gallery.
+Search Functionality: Allows users to search for specific artworks or artists.
+Admin Panel: For managing artwork entries, including adding, updating, and deleting artworks.
+User Authentication: Secure login system for admins to manage the gallery.
 
 # Technologies Used
-# Frontend: HTML, CSS, JavaScript
-# Database: MySQL
+Frontend: HTML, CSS, JavaScript
+Database: MySQL
 
 # Installation
 To get a local copy up and running, follow these steps:
